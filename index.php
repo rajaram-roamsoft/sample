@@ -27,7 +27,7 @@ Search Restaurant : <input type="text" id="search" onkeyup="return searchRestaur
                     if (i === 0)
                         $('#searchResult').html(html);
                     return false;
-                    return false;
+                    
                 }
             }
         }); 
